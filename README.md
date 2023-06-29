@@ -1,2 +1,4 @@
 # bouncing-ball-animation
-OpenGL Bouncing ball simulation with lightning and material 
+My First OpenGL Bouncing ball simulation with lightning and material 
+
+
