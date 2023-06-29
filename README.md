@@ -5,8 +5,7 @@ My First OpenGL Bouncing ball simulation with lightning and material
 
 
 <b>To Use</b><br>
-<code>
-git clone https://github.com/Osmanyasal/bouncing-ball-anim.git
+<code>git clone https://github.com/Osmanyasal/bouncing-ball-anim.git
 cd bouncing-ball-anim/
 make
 </code>
